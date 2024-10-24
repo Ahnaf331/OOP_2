@@ -1,0 +1,235 @@
+C:\Users\ASUS\Documents\C#\20August\Star5\bin\Debug\Star5.exe.config
+C:\Users\ASUS\Documents\C#\20August\Star5\bin\Debug\Star5.exe
+C:\Users\ASUS\Documents\C#\20August\Star5\bin\Debug\Star5.pdb
+C:\Users\ASUS\Documents\C#\20August\Star5\bin\Debug\Guna.UI.dll
+C:\Users\ASUS\Documents\C#\20August\Star5\obj\Debug\Star5.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\C#\20August\Star5\obj\Debug\Star5.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Documents\C#\20August\Star5\obj\Debug\Star5.Loading.resources
+C:\Users\ASUS\Documents\C#\20August\Star5\obj\Debug\Star5.Properties.Resources.resources
+C:\Users\ASUS\Documents\C#\20August\Star5\obj\Debug\Star5.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\C#\20August\Star5\obj\Debug\Star5.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\C#\20August\Star5\obj\Debug\Star5.csproj.CopyComplete
+C:\Users\ASUS\Documents\C#\20August\Star5\obj\Debug\Star5.exe
+C:\Users\ASUS\Documents\C#\20August\Star5\obj\Debug\Star5.pdb
+C:\Users\ASUS\Documents\C#\20August\Star5\obj\Debug\Star5.Welcome.resources
+C:\Users\ASUS\Documents\C#\20August\Star5\obj\Debug\Star5.AdEmployee.resources
+C:\Users\ASUS\Documents\C#\20August\Star5\obj\Debug\Star5.AdLogin.resources
+C:\Users\ASUS\Documents\C#\20August\Star5\obj\Debug\Star5.Admin.resources
+C:\Users\ASUS\Documents\C#\20August\Star5\obj\Debug\Star5.CsRegistration.resources
+C:\Users\ASUS\Documents\C#\20August\Star5\obj\Debug\Star5.Food.resources
+C:\Users\ASUS\Documents\C#\20August\Star5\obj\Debug\Star5.Login.resources
+C:\Users\ASUS\Documents\C#\20August\Star5\obj\Debug\Star5.Usercontrols.CsLogin.resources
+C:\Users\ASUS\Documents\C#\20August\Star5\obj\Debug\Star5.BdMenuType.resources
+C:\Users\ASUS\Documents\C#\20August\Star5\obj\Debug\Star5.CMenuType.resources
+C:\Users\ASUS\Documents\C#\20August\Star5\obj\Debug\Star5.InMenuType.resources
+C:\Users\ASUS\Documents\C#\20August\Star5\obj\Debug\Star5.JMenuType.resources
+C:\Users\ASUS\Documents\C#\20August\Star5\obj\Debug\Star5.PMenuType.resources
+D:\New folder (2)\New folder\20August\Star5\bin\Debug\Star5.exe.config
+D:\New folder (2)\New folder\20August\Star5\bin\Debug\Star5.exe
+D:\New folder (2)\New folder\20August\Star5\bin\Debug\Star5.pdb
+D:\New folder (2)\New folder\20August\Star5\obj\Debug\Star5.csproj.AssemblyReference.cache
+D:\New folder (2)\New folder\20August\Star5\obj\Debug\Star5.AdEmployee.resources
+D:\New folder (2)\New folder\20August\Star5\obj\Debug\Star5.AdLogin.resources
+D:\New folder (2)\New folder\20August\Star5\obj\Debug\Star5.Admin.resources
+D:\New folder (2)\New folder\20August\Star5\obj\Debug\Star5.BdMenuType.resources
+D:\New folder (2)\New folder\20August\Star5\obj\Debug\Star5.CMenuType.resources
+D:\New folder (2)\New folder\20August\Star5\obj\Debug\Star5.CsRegistration.resources
+D:\New folder (2)\New folder\20August\Star5\obj\Debug\Star5.Food.resources
+D:\New folder (2)\New folder\20August\Star5\obj\Debug\Star5.InMenuType.resources
+D:\New folder (2)\New folder\20August\Star5\obj\Debug\Star5.JMenuType.resources
+D:\New folder (2)\New folder\20August\Star5\obj\Debug\Star5.Loading.resources
+D:\New folder (2)\New folder\20August\Star5\obj\Debug\Star5.Login.resources
+D:\New folder (2)\New folder\20August\Star5\obj\Debug\Star5.PMenuType.resources
+D:\New folder (2)\New folder\20August\Star5\obj\Debug\Star5.Properties.Resources.resources
+D:\New folder (2)\New folder\20August\Star5\obj\Debug\Star5.Usercontrols.CsLogin.resources
+D:\New folder (2)\New folder\20August\Star5\obj\Debug\Star5.Welcome.resources
+D:\New folder (2)\New folder\20August\Star5\obj\Debug\Star5.csproj.GenerateResource.cache
+D:\New folder (2)\New folder\20August\Star5\obj\Debug\Star5.csproj.CoreCompileInputs.cache
+D:\New folder (2)\New folder\20August\Star5\obj\Debug\Star5.csproj.CopyComplete
+D:\New folder (2)\New folder\20August\Star5\obj\Debug\Star5.exe
+D:\New folder (2)\New folder\20August\Star5\obj\Debug\Star5.pdb
+E:\Login\20August\Star5\obj\Debug\Star5.csproj.AssemblyReference.cache
+E:\Login\20August\Star5\obj\Debug\Star5.csproj.SuggestedBindingRedirects.cache
+E:\Login\20August\Star5\obj\Debug\Star5.exe
+E:\Login\20August\Star5\obj\Debug\Star5.pdb
+D:\New folder\Login\20August\Star5\bin\Debug\Star5.exe.config
+D:\New folder\Login\20August\Star5\bin\Debug\Star5.exe
+D:\New folder\Login\20August\Star5\bin\Debug\Star5.pdb
+D:\New folder\Login\20August\Star5\obj\Debug\Star5.csproj.AssemblyReference.cache
+D:\New folder\Login\20August\Star5\obj\Debug\Star5.AdBDDrinks.resources
+D:\New folder\Login\20August\Star5\obj\Debug\Star5.AdBDFoods.resources
+D:\New folder\Login\20August\Star5\obj\Debug\Star5.AdEmployee.resources
+D:\New folder\Login\20August\Star5\obj\Debug\Star5.ADFoodCat.resources
+D:\New folder\Login\20August\Star5\obj\Debug\Star5.ADIDrinks.resources
+D:\New folder\Login\20August\Star5\obj\Debug\Star5.AdIFoods.resources
+D:\New folder\Login\20August\Star5\obj\Debug\Star5.AdJDrinks.resources
+D:\New folder\Login\20August\Star5\obj\Debug\Star5.AdJFoods.resources
+D:\New folder\Login\20August\Star5\obj\Debug\Star5.AdLogin.resources
+D:\New folder\Login\20August\Star5\obj\Debug\Star5.Admin.resources
+D:\New folder\Login\20August\Star5\obj\Debug\Star5.BDDrinks.resources
+D:\New folder\Login\20August\Star5\obj\Debug\Star5.BDFooods.resources
+D:\New folder\Login\20August\Star5\obj\Debug\Star5.BdMenuType.resources
+D:\New folder\Login\20August\Star5\obj\Debug\Star5.CsRegistration.resources
+D:\New folder\Login\20August\Star5\obj\Debug\Star5.Food.resources
+D:\New folder\Login\20August\Star5\obj\Debug\Star5.IDrinks.resources
+D:\New folder\Login\20August\Star5\obj\Debug\Star5.IFoods.resources
+D:\New folder\Login\20August\Star5\obj\Debug\Star5.InMenuType.resources
+D:\New folder\Login\20August\Star5\obj\Debug\Star5.JDrinks.resources
+D:\New folder\Login\20August\Star5\obj\Debug\Star5.JFooods.resources
+D:\New folder\Login\20August\Star5\obj\Debug\Star5.JMenuType.resources
+D:\New folder\Login\20August\Star5\obj\Debug\Star5.Loading.resources
+D:\New folder\Login\20August\Star5\obj\Debug\Star5.Login.resources
+D:\New folder\Login\20August\Star5\obj\Debug\Star5.Properties.Resources.resources
+D:\New folder\Login\20August\Star5\obj\Debug\Star5.Usercontrols.CsLogin.resources
+D:\New folder\Login\20August\Star5\obj\Debug\Star5.Welcome.resources
+D:\New folder\Login\20August\Star5\obj\Debug\Star5.csproj.GenerateResource.cache
+D:\New folder\Login\20August\Star5\obj\Debug\Star5.csproj.CoreCompileInputs.cache
+D:\New folder\Login\20August\Star5\obj\Debug\Star5.csproj.CopyComplete
+D:\New folder\Login\20August\Star5\obj\Debug\Star5.exe
+D:\New folder\Login\20August\Star5\obj\Debug\Star5.pdb
+E:\Update\Login\20August\Star5\obj\Debug\Star5.csproj.AssemblyReference.cache
+E:\Update\Login\20August\Star5\obj\Debug\Star5.csproj.SuggestedBindingRedirects.cache
+E:\Update\Login\20August\Star5\obj\Debug\Star5.exe
+E:\Update\Login\20August\Star5\obj\Debug\Star5.pdb
+C:\Users\User\Downloads\Video\Update\Login\20August\Star5\obj\Debug\Star5.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Video\Update\Login\20August\Star5\obj\Debug\Star5.AdBDDrinks.resources
+C:\Users\User\Downloads\Video\Update\Login\20August\Star5\obj\Debug\Star5.AdBDFoods.resources
+C:\Users\User\Downloads\Video\Update\Login\20August\Star5\obj\Debug\Star5.AdEmployee.resources
+C:\Users\User\Downloads\Video\Update\Login\20August\Star5\obj\Debug\Star5.ADFoodCat.resources
+C:\Users\User\Downloads\Video\Update\Login\20August\Star5\obj\Debug\Star5.ADIDrinks.resources
+C:\Users\User\Downloads\Video\Update\Login\20August\Star5\obj\Debug\Star5.AdIFoods.resources
+C:\Users\User\Downloads\Video\Update\Login\20August\Star5\obj\Debug\Star5.AdJDrinks.resources
+C:\Users\User\Downloads\Video\Update\Login\20August\Star5\obj\Debug\Star5.AdJFoods.resources
+C:\Users\User\Downloads\Video\Update\Login\20August\Star5\obj\Debug\Star5.AdLogin.resources
+C:\Users\User\Downloads\Video\Update\Login\20August\Star5\obj\Debug\Star5.Admin.resources
+C:\Users\User\Downloads\Video\Update\Login\20August\Star5\obj\Debug\Star5.BDDrinks.resources
+C:\Users\User\Downloads\Video\Update\Login\20August\Star5\obj\Debug\Star5.BDFooods.resources
+C:\Users\User\Downloads\Video\Update\Login\20August\Star5\obj\Debug\Star5.BdMenuType.resources
+C:\Users\User\Downloads\Video\Update\Login\20August\Star5\obj\Debug\Star5.CsRegistration.resources
+C:\Users\User\Downloads\Video\Update\Login\20August\Star5\obj\Debug\Star5.Food.resources
+C:\Users\User\Downloads\Video\Update\Login\20August\Star5\obj\Debug\Star5.IDrinks.resources
+C:\Users\User\Downloads\Video\Update\Login\20August\Star5\obj\Debug\Star5.IFoods.resources
+C:\Users\User\Downloads\Video\Update\Login\20August\Star5\obj\Debug\Star5.InMenuType.resources
+C:\Users\User\Downloads\Video\Update\Login\20August\Star5\obj\Debug\Star5.JDrinks.resources
+C:\Users\User\Downloads\Video\Update\Login\20August\Star5\obj\Debug\Star5.JFooods.resources
+C:\Users\User\Downloads\Video\Update\Login\20August\Star5\obj\Debug\Star5.JMenuType.resources
+C:\Users\User\Downloads\Video\Update\Login\20August\Star5\obj\Debug\Star5.Loading.resources
+C:\Users\User\Downloads\Video\Update\Login\20August\Star5\obj\Debug\Star5.Login.resources
+C:\Users\User\Downloads\Video\Update\Login\20August\Star5\obj\Debug\Star5.Payment.resources
+C:\Users\User\Downloads\Video\Update\Login\20August\Star5\obj\Debug\Star5.Properties.Resources.resources
+C:\Users\User\Downloads\Video\Update\Login\20August\Star5\obj\Debug\Star5.Usercontrols.CsLogin.resources
+C:\Users\User\Downloads\Video\Update\Login\20August\Star5\obj\Debug\Star5.Welcome.resources
+C:\Users\User\Downloads\Video\Update\Login\20August\Star5\obj\Debug\Star5.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Video\Update\Login\20August\Star5\obj\Debug\Star5.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Video\Update\Login\20August\Star5\obj\Debug\Star5.exe
+C:\Users\User\Downloads\Video\Update\Login\20August\Star5\obj\Debug\Star5.pdb
+E:\Video\Last_Updatee\Update\Login\20August\Star5\bin\Debug\Star5.exe.config
+E:\Video\Last_Updatee\Update\Login\20August\Star5\bin\Debug\Star5.exe
+E:\Video\Last_Updatee\Update\Login\20August\Star5\bin\Debug\Star5.pdb
+E:\Video\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.csproj.AssemblyReference.cache
+E:\Video\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.AdBDDrinks.resources
+E:\Video\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.AdBDFoods.resources
+E:\Video\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.AdEmployee.resources
+E:\Video\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.ADFoodCat.resources
+E:\Video\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.ADIDrinks.resources
+E:\Video\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.AdIFoods.resources
+E:\Video\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.AdJDrinks.resources
+E:\Video\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.AdJFoods.resources
+E:\Video\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.AdLogin.resources
+E:\Video\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.Admin.resources
+E:\Video\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.BDDrinks.resources
+E:\Video\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.BDFooods.resources
+E:\Video\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.BdMenuType.resources
+E:\Video\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.CsRegistration.resources
+E:\Video\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.Food.resources
+E:\Video\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.IDrinks.resources
+E:\Video\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.IFoods.resources
+E:\Video\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.InMenuType.resources
+E:\Video\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.JDrinks.resources
+E:\Video\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.JFooods.resources
+E:\Video\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.JMenuType.resources
+E:\Video\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.Loading.resources
+E:\Video\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.Login.resources
+E:\Video\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.Payment.resources
+E:\Video\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.Properties.Resources.resources
+E:\Video\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.Usercontrols.CsLogin.resources
+E:\Video\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.Welcome.resources
+E:\Video\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.csproj.GenerateResource.cache
+E:\Video\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.csproj.CoreCompileInputs.cache
+E:\Video\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.csproj.CopyComplete
+E:\Video\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.exe
+E:\Video\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.pdb
+E:\New folder\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\bin\Debug\Star5.exe.config
+E:\New folder\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\bin\Debug\Star5.exe
+E:\New folder\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\bin\Debug\Star5.pdb
+E:\New folder\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.csproj.AssemblyReference.cache
+E:\New folder\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.AdBDDrinks.resources
+E:\New folder\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.AdBDFoods.resources
+E:\New folder\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.AdEmployee.resources
+E:\New folder\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.ADFoodCat.resources
+E:\New folder\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.ADIDrinks.resources
+E:\New folder\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.AdIFoods.resources
+E:\New folder\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.AdJDrinks.resources
+E:\New folder\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.AdJFoods.resources
+E:\New folder\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.AdLogin.resources
+E:\New folder\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.Admin.resources
+E:\New folder\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.BDDrinks.resources
+E:\New folder\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.BDFooods.resources
+E:\New folder\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.BdMenuType.resources
+E:\New folder\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.CsRegistration.resources
+E:\New folder\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.Food.resources
+E:\New folder\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.IDrinks.resources
+E:\New folder\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.IFoods.resources
+E:\New folder\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.InMenuType.resources
+E:\New folder\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.JDrinks.resources
+E:\New folder\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.JFooods.resources
+E:\New folder\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.JMenuType.resources
+E:\New folder\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.Loading.resources
+E:\New folder\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.Login.resources
+E:\New folder\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.Payment.resources
+E:\New folder\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.Properties.Resources.resources
+E:\New folder\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.Usercontrols.CsLogin.resources
+E:\New folder\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.Welcome.resources
+E:\New folder\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.csproj.GenerateResource.cache
+E:\New folder\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.csproj.CoreCompileInputs.cache
+E:\New folder\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.csproj.CopyComplete
+E:\New folder\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.exe
+E:\New folder\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.pdb
+E:\New folder\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.About.resources
+D:\Study\Project\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\bin\Debug\Star5.exe.config
+D:\Study\Project\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\bin\Debug\Star5.exe
+D:\Study\Project\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\bin\Debug\Star5.pdb
+D:\Study\Project\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.csproj.AssemblyReference.cache
+D:\Study\Project\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.About.resources
+D:\Study\Project\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.AdBDDrinks.resources
+D:\Study\Project\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.AdBDFoods.resources
+D:\Study\Project\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.AdEmployee.resources
+D:\Study\Project\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.ADFoodCat.resources
+D:\Study\Project\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.ADIDrinks.resources
+D:\Study\Project\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.AdIFoods.resources
+D:\Study\Project\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.AdJDrinks.resources
+D:\Study\Project\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.AdJFoods.resources
+D:\Study\Project\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.AdLogin.resources
+D:\Study\Project\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.Admin.resources
+D:\Study\Project\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.BDDrinks.resources
+D:\Study\Project\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.BDFooods.resources
+D:\Study\Project\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.BdMenuType.resources
+D:\Study\Project\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.CsRegistration.resources
+D:\Study\Project\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.Food.resources
+D:\Study\Project\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.IDrinks.resources
+D:\Study\Project\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.IFoods.resources
+D:\Study\Project\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.InMenuType.resources
+D:\Study\Project\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.JDrinks.resources
+D:\Study\Project\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.JFooods.resources
+D:\Study\Project\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.JMenuType.resources
+D:\Study\Project\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.Loading.resources
+D:\Study\Project\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.Login.resources
+D:\Study\Project\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.Payment.resources
+D:\Study\Project\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.Properties.Resources.resources
+D:\Study\Project\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.Usercontrols.CsLogin.resources
+D:\Study\Project\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.Welcome.resources
+D:\Study\Project\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.csproj.GenerateResource.cache
+D:\Study\Project\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.csproj.CoreCompileInputs.cache
+D:\Study\Project\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.csproj.CopyComplete
+D:\Study\Project\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.exe
+D:\Study\Project\Last_Updateee (2)\Last_Updatee\Update\Login\20August\Star5\obj\Debug\Star5.pdb
